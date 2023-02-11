@@ -54,3 +54,12 @@ The data in use is from Datadriven made up of 26707 rows and 36 columns(12 categ
 - 'household_children'-number of children in the house.
 - 'employment_industry'-industr of employment.
 - 'employment_occupation'- what they do for a living.
+
+Lastly to validate this data reference was made with data from [here](https://www.cdc.gov/nchs/index.html)
+
+
+### Data Preparation 
+1. Loading the data.
+The data set was loaded into the notebook.A data frame was then created and displayed to show content of the data as well as how the variables relate to each other.
+2. Cleaning data.
+The data was analyzed,checked for duplicates and missing values.Missing values were dropped and irrelevant columns were dropped as well.
