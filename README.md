@@ -77,6 +77,12 @@ Correlations were also studied between the variables.
 
 The lighter values indicate a high value of correlation while the darker values indicate low value of correlation.
 
+## Modelling
+The models that were used are:
+- Raandom Forest Classifier.
+- Logistic Regression Model.
+- Decision Tree Classifier model.
+
 ## Conclusions 
 - The best working model was the random forest classifier with an accuracy of 80.7%.
 - The accuracy of the model aims in learning the demographics of people to work on to get vaccinated.
