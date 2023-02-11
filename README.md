@@ -71,3 +71,27 @@ The data was analyzed,checked for duplicates and missing values.Missing values w
 
 ### Exploratory analysis 
 Visualizations were created to show distribution of the variables in our data set.Multivariate analysis was also done to show relationships between some variables.
+Correlations were also studied between the variables.
+
+![download](https://user-images.githubusercontent.com/42667708/218282800-a1eb32fa-f3c1-473a-b334-c05b384f7da3.png)
+
+The lighter values indicate a high value of correlation while the darker values indicate low value of correlation.
+
+## Conclusions 
+- The best working model was the random forest classifier with an accuracy of 80.7%.
+- The accuracy of the model aims in learning the demographics of people to work on to get vaccinated.
+- People with higher education have a more likelihood of getting the vaccine.
+- People in the health care industry have a higher chance of getting the vaccine.
+- Most people who have a more likelihood to get the vaccine are over 65 years.
+
+## Recommendations 
+- The foundation should create more awareness by using multiple chanels such as social media,websites,in order to reach people below 65 years as well.
+- The foundation should partner with community organizations to provide education about vaccination.
+- They should perform further investigation on what parameters that need to be added to improve model accuracy.
+
+
+## Repository Guide
+- The data sets used can be found [here](https://github.com/Wachira-2030/Flu-Shot-Learning/tree/main/Data).
+- The data report can be found [here](https://docs.google.com/document/d/19qLO4V4TmZxcKxEEh35kN0EM0-GyytVL1YED7ZBssQc/edit?usp=sharing).
+- The notebook can be found [here](https://github.com/Wachira-2030/Flu-Shot-Learning/blob/main/Flu%20Shot%20Learning%20.ipynb)
+- The non-technical presentation can be found [here](https://www.canva.com/design/DAFaNh4ADjM/sfG7N1OTTXaUjzzoyo7FGA/view?utm_content=DAFaNh4ADjM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
