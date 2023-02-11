@@ -1,6 +1,5 @@
 # Flu-Shot-Learning
-
-![pexels-frank-meriño-8488619](https://user-images.githubusercontent.com/42667708/218280774-65cc1b53-e3c6-4f3e-8deb-e79276ecc626.jpg=300x300)
+<img src=" https://user-images.githubusercontent.com/42667708/218280774-65cc1b53-e3c6-4f3e-8deb-e79276ecc626.jpg" width="300" height="300">
 The notebook will be set up using the CRISP-DM Data science Project.
 ![217210012-25f65237-d691-46ab-9516-d2f80d119a87 (1)](https://user-images.githubusercontent.com/42667708/218281367-93c174e6-93e0-4e12-b9ba-b013382bb175.png=250x250)
 
