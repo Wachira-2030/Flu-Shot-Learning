@@ -1,6 +1,8 @@
 # Flu-Shot-Learning
 
 ![pexels-frank-meriño-8488619](https://user-images.githubusercontent.com/42667708/218280774-65cc1b53-e3c6-4f3e-8deb-e79276ecc626.jpg)
+The notebook will be set up using the CRISP-DM Data science Project.
+![217210012-25f65237-d691-46ab-9516-d2f80d119a87 (1)](https://user-images.githubusercontent.com/42667708/218281367-93c174e6-93e0-4e12-b9ba-b013382bb175.png)
 
 ## 1. INTRODUCTION
 An NGO in the health sector, wants to learn about the trends in the vaccination space.In the year 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.The Gates foundation wants to find out if they can forecast vaccination of an individual based on specific parameters.
@@ -14,7 +16,7 @@ Can one predict whether a person  got seasonal flu vaccine using information the
 This project aims at getting to know whether a person has received the seasonal flu vaccine using machine learning techniques.
 
 ## 3. NOTEBOOK STRUCTURE
-### The data
+### The features
 
 The data in use is from Datadriven made up of 26707 rows and 36 columns(12 categorical columns and 24 are numerical.) Namely:
 
@@ -63,3 +65,7 @@ Lastly to validate this data reference was made with data from [here](https://ww
 The data set was loaded into the notebook.A data frame was then created and displayed to show content of the data as well as how the variables relate to each other.
 2. Cleaning data.
 The data was analyzed,checked for duplicates and missing values.Missing values were dropped and irrelevant columns were dropped as well.
+
+
+### Exploratory analysis 
+Visualizations were created to show distribution of the variables in our data set.Multivariate analysis was also done to show relationships between some variables.
