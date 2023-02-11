@@ -3,7 +3,7 @@
  
 
 The notebook will be set up using the CRISP-DM Data science Project.
-<img src="https://user-images.githubusercontent.com/115970348/217210012-25f65237-d691-46ab-9516-d2f80d119a87.png" width =300>
+<img src="https://user-images.githubusercontent.com/115970348/217210012-25f65237-d691-46ab-9516-d2f80d119a87.png" width =700>
 
 ## 1. INTRODUCTION
 An NGO in the health sector, wants to learn about the trends in the vaccination space.In the year 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.The Gates foundation wants to find out if they can forecast vaccination of an individual based on specific parameters.
