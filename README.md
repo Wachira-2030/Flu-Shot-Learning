@@ -1,8 +1,8 @@
 # Flu-Shot-Learning
 
-![pexels-frank-meriño-8488619](https://user-images.githubusercontent.com/42667708/218280774-65cc1b53-e3c6-4f3e-8deb-e79276ecc626.jpg)
+![pexels-frank-meriño-8488619](https://user-images.githubusercontent.com/42667708/218280774-65cc1b53-e3c6-4f3e-8deb-e79276ecc626.jpg=300x300)
 The notebook will be set up using the CRISP-DM Data science Project.
-![217210012-25f65237-d691-46ab-9516-d2f80d119a87 (1)](https://user-images.githubusercontent.com/42667708/218281367-93c174e6-93e0-4e12-b9ba-b013382bb175.png)
+![217210012-25f65237-d691-46ab-9516-d2f80d119a87 (1)](https://user-images.githubusercontent.com/42667708/218281367-93c174e6-93e0-4e12-b9ba-b013382bb175.png=250x250)
 
 ## 1. INTRODUCTION
 An NGO in the health sector, wants to learn about the trends in the vaccination space.In the year 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally.The Gates foundation wants to find out if they can forecast vaccination of an individual based on specific parameters.
